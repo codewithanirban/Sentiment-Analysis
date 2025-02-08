@@ -105,7 +105,7 @@ pip install -r requirements.txt
 ---
 
 ## **Contributors**
-- **Your Name** ([GitHub](https://github.com/codewithanirban))  
+- **Anirban Chakraborty** ([GitHub](https://github.com/codewithanirban))  
 
 ---
 
